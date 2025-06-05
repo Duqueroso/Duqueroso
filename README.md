@@ -1,5 +1,4 @@
 <h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
----
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Delius&weight=500&size=25&pause=1000&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 
 <!--
